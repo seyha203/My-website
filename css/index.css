@@ -159,7 +159,9 @@ button{
 .famust-product1{
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 10px;
 }
 .famust-product1>h2{
     text-align: center;
@@ -170,7 +172,7 @@ button{
 }
 .top-cloth{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(2,1fr);
     gap: 40px;
 }
 .NEW-Nike{
