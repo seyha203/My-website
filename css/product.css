@@ -275,6 +275,9 @@ footer {
     border-radius: 50%;
 }
 
+#active{
+    color: orange;
+}
 
 /* template tablate */
 @media (max-width:899px) and (min-width:700px){
